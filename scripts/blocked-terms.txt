@@ -1,0 +1,24 @@
+# Proprietary terms that must not appear in the public repo
+# One term per line. Lines starting with # are comments.
+
+# Apps Script references
+BlastAuditor
+JourneyAuditor
+CommandCenter\.gs
+Apps Script
+
+# Internal decision IDs (word-boundary anchored to avoid matching BRND-01 etc.)
+\bD-0[0-9]\b
+\bD-1[0-9]\b
+\bD-2[0-9]\b
+
+# Client names
+[Tt]iff.s.[Tt]reats
+tiffs_treats
+
+# Internal paths
+brain/delivery_tools
+modular/brain
+
+# Internal doc references
+SCORECARD-REVIEW

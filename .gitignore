@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Runtime output
+output/
+
+# Environment
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Bun
+bun.lock
+
+# IDE
+.vscode/
+.idea/
+
+# Internal development artifacts (not for public repo)
+.claude/worktrees/
+.claude/settings.json
+.claude/settings.local.json
+.planning/
+CLAUDE.md
+test-results/
+# styles/dashboard.css is source, styles/dashboard.out.css is committed (needed at runtime)
