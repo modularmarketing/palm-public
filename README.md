@@ -47,7 +47,7 @@ If you don't have it yet, follow the [Claude Code install guide](https://code.cl
 Open Claude Code by typing `claude`, then paste this prompt:
 
 ```
-Delete the folders ~/palm-public, ~/.claude/skills/palm-get-metrics, ~/.claude/skills/palm-dashboard, and ~/.claude/skills/palm-info. Then clone https://github.com/modularmarketing/palm-public.git to ~/palm-public, run npm install, and copy the three skill folders from ~/palm-public/.claude/skills/ into ~/.claude/skills/.
+Clone https://github.com/modularmarketing/palm-public.git to ~/palm-public, run npm install, and copy the three skill folders from ~/palm-public/.claude/skills/ into ~/.claude/skills/.
 ```
 
 This downloads PALM and installs three skills globally. Claude Code will ask for permission to run some terminal commands -- just approve them. You only do this once.
