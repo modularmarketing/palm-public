@@ -119,4 +119,4 @@ Issues and pull requests welcome. Please open an issue before starting large cha
 
 Apache License 2.0 -- see [LICENSE](LICENSE) and [NOTICE](NOTICE).
 
-Built by [Modular Marketing](https://modularmarketing.com). For a full Lifecycle Health Check, [contact us](https://modularmarketing.com).
+Created and developed by Jon Uland (@jonstermash) at [Modular Marketing](https://modularmarketing.com). For a full Lifecycle Health Check, [contact us](https://modularmarketing.com).
